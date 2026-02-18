@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | GENERALISTAS",LA 1
+#EXTINF:-1 tvg-id="La.1.es" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | GENERALISTAS",LA 1
 http://svipwoaf.top:8080/MJ41110/MJ411qww/266
-#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | GENERALISTAS",LA 2
+#EXTINF:-1 tvg-id="La.2.es" tvg-name="LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | GENERALISTAS",LA 2
 http://svipwoaf.top:8080/MJ41110/MJ411qww/267
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ES | GENERALISTAS",ANTENA 3
+#EXTINF:-1 tvg-id="Antena.3.es" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ES | GENERALISTAS",ANTENA 3
 http://svipwoaf.top:8080/MJ41110/MJ411qww/268
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | GENERALISTAS",S: LA SEXTA
 http://svipwoaf.top:8080/MJ41110/MJ411qww/269
@@ -91,7 +91,7 @@ http://svipwoaf.top:8080/MJ41110/MJ411qww/309
 http://svipwoaf.top:8080/MJ41110/MJ411qww/310
 #EXTINF:-1 tvg-id="dreamworks.es" tvg-name="ES: DREAMWORKS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="ES | INFANTILES",ES: DREAMWORKS
 http://svipwoaf.top:8080/MJ41110/MJ411qww/311
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="ES | INFANTILES",ES: DISNEY CHANNEL
+#EXTINF:-1 tvg-id="Disney.Channel.es" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="ES | INFANTILES",ES: DISNEY CHANNEL
 http://svipwoaf.top:8080/MJ41110/MJ411qww/312
 #EXTINF:-1 tvg-id="boing.es" tvg-name="ES: BOING" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="ES | INFANTILES",ES: BOING
 http://svipwoaf.top:8080/MJ41110/MJ411qww/313
